@@ -1,0 +1,24 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  color: white;
+  padding: 1rem 2rem;
+}
+nav a {
+  margin-left: 1.5rem;
+  color: white;
+  text-decoration: none;
+  position: relative;
+}
+nav a span {
+  position: absolute;
+  top: -8px;
+  right: -10px;
+  background: red;
+  color: white;
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 50%;
+}
