@@ -52,19 +52,80 @@ ShoppyGlobe is a simple yet modern e-commerce application built using **React**,
 
 ## 🧪 How to Run This Project Locally
 
-### 1. 📥 Clone the repo
 
-https://github.com/GitAvinash003/shoppy-globe-ecommerce.git
-cd shoppyglobe
+1. 📥 Clone the repo
 
-📦 Install dependencies
-     npm install
+**https://github.com/GitAvinash003/shoppy-globe-ecommerce.git**
+**cd shoppyglobe**
 
-### 🚀 Start the Application
+**Install dependencies**
+**npm install**
 
-    npm run dev
+### **Start the Application**
+
+### npm run dev
 
 ## **Visit the app at 👉 `http://localhost:5173` in your browser.**
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -121,6 +182,63 @@ cd shoppyglobe
 
 
 * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
