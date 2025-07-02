@@ -60,7 +60,7 @@ Follow these simple steps to run the project on your local system:
 
 ```bash
 git clone https://github.com/GitAvinash003/shoppy-globe-ecommerce.git
-cd shoppyglobe
+cd shoppy-globe-ecommerce-main
 #install dependency 
 npm install
 #start App 
